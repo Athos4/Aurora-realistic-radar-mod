@@ -1,0 +1,5 @@
+TRAIT TMA: 0.5nm
+TRAIT ILS: 0.2nm
+Pointillés: 0.05nm puis supprimer 1 coordonée sur 2
+
+Hauteur label Villa: 4000ft
