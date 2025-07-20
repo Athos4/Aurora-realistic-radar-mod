@@ -1,3 +1,6 @@
+20/07/2025:
+- Secteur Rennes ajouté
+
 13/07/2025:
 Première release !
 	- Initial release Orly v1
